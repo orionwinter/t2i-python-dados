@@ -1,2 +1,2 @@
 # t2i-python-ad
-Codigos referentes a disciplina Python para Analise de Dados - Tecnologia Inovação e Inteligência (T2i)
+Codigos referentes as disciplinas de Visualização de Dados - CESAR School
