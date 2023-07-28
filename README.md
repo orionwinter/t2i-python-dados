@@ -1,2 +1,3 @@
-# t2i-python-ad
-Codigos referentes as disciplinas de Visualização de Dados - CESAR School
+# T2i - Python para Dados
+
+Codigos referentes a disciplina de Python para Dados. 
